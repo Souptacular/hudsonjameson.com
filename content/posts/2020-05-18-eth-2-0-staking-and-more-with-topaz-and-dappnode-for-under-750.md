@@ -15,7 +15,7 @@ There are multiple Eth 2.0 client implementations and testnets, but the most pop
 # Choosing the Hardware
 Prysmatic Labs made a [blog post](https://medium.com/prysmatic-labs/introducing-topaz-testnet-8e8a4e00a700) announcing the Topaz testnet and listing system requirements.
 
-![Topaz hardware requirements](https://hudsonjameson.com/img/2020/05/topaz-req.png)
+![Topaz hardware requirements](../assets/images/2020/05/topaz-req.png)
 
 I wanted to do more than just run a Prysm validator on the node because DAppnode had a lot of "packages", such as Eth 1.0 clients and Zcash, that I could install in addition to the Eth 2.0 client. I would probably need a mid-range machine with a lot of hard drive space (for the blockchains I would be running on them) to accomplish this. I wanted a machine that wouldn't make a lot of noise and I had never owned a fanless PC before so I decided to give that a try. I bought:
 
@@ -27,24 +27,24 @@ I wanted to do more than just run a Prysm validator on the node because DAppnode
 1 x 4K Fanless Mini PC, Intel Quad Core I7 8565U,(Black),[HUNSN BM14],[WiFi/1DP/1HDMI/4USB3.0/4USB2.0/1LAN](Barebone System)
 ```
 
-![Hardware shopping list](https://hudsonjameson.com/img/2020/05/amazon-list.png)
+![Hardware shopping list](../assets/images/2020/05/amazon-list.png)
 
 The solid state drive (SSD) was $219.99, the RAM was $82.99, and the processor/case/motherboard/power supply combo was $409.99. **All together the price of the entire system came to $712.97‬ before tax**. On reflection, I probably could have saved money buying an i5 processor instead of an i7 and buying 8GB of RAM rather than 16GB, but I wasn't sure exactly the computing requirements of the other DAppnode packages. I imagine you could easily bring this price down to under $500.
 
 The reasons I chose to buy a "barebones" mini-PC is that it generally is cheaper to buy the RAM and hard drive separately and put it together yourself. This was absolutely the case in my situation. When buying the hard drive for an Eth 2.0 validator (or even an Eth 1.0 client) it is important to get a solid state drive, either a classic 2.5" SATA drives or the newer internal NVME SSD chips. Both the 2.5" SATA drives and NVME chips were similarly priced, but I was unfamiliar with the NVME chips so I went with the 2.5" drive. I regret this because I learned later than the NVME chips performed better comparatively. Another lesson learned: A fanless system can get VERY HOT. It actually scares me how hot it gets sometimes. I'm afraid it will overheat, or worse, catch fire, lol. Have plans in place to add more fans or thermal paste or something if this happens.
 
 # Building
-![Mini PC box](https://hudsonjameson.com/img/2020/05/mini-pc-box.jpg)
+![Mini PC box](../assets/images/2020/05/mini-pc-box.jpg)
 
 I opened the case to reveal a tight-fitting area with a small ITX motherboard and the room for a single 2.5" SSD. I attached the hard drive, plugged in the SATA cables to the drive, and popped in the RAM. It was really straightforward, but I can imagine it may be difficult for those who don't have experience building computers. There are many guides online on how to accomplish custom PC building if you decide to take this path and need help.
 
-![Mini PC unboxed](https://hudsonjameson.com/img/2020/05/mini-pc-inside.jpg)
+![Mini PC unboxed](../assets/images/2020/05/mini-pc-inside.jpg)
 
 # Installing DAppnode OS
 
 I followed the instructions on [DAppnode installation guide GitHub page](https://github.com/dappnode/DAppNode/wiki/DAppNode-Installation-Guide), using the Etcher USB writing program to copy the DAppnode ISO file to a USB. That USB was then inserted into the new mini-PC and the computer detected it when it turned on.
 
-![DAppnode install screen](https://hudsonjameson.com/img/2020/05/dappnode-install.png)
+![DAppnode install screen](../assets/images/2020/05/dappnode-install.png)
 
 The steps to installing DAppnode were very smooth overall. Here are a few things I wanted to point out about my DAppnode OS installation experience:
 
@@ -57,11 +57,11 @@ The steps to installing DAppnode were very smooth overall. Here are a few things
 
 This section is going to be light because of how easy it is to use DAppnode. When you load your DAppnode it shows you a slew of software you can choose to install on your machine. I chose to install the [Nethermind Ethereum 1.0 client](https://nethermind.io/), the [Prysm Eth 2.0 validator client for Topaz](https://docs.prylabs.network/docs/how-prysm-works/prysm-validator-client/), and [the Prysm Slasher client for Topaz](https://docs.prylabs.network/docs/prysm-usage/slasher/).
 
-![DAppnode Store](https://hudsonjameson.com/img/2020/05/dappnode-store.png)
+![DAppnode Store](../assets/images/2020/05/dappnode-store.png)
 
 I later installed the Eth2stats Client so my Topaz validator could get a shiny new name and be listed on the Eth2stats validator dashboard.
 
-![Eth2stats dashboard](https://hudsonjameson.com/img/2020/05/eth2stats.png)
+![Eth2stats dashboard](../assets/images/2020/05/eth2stats.png)
 
 # How to Monitor Your Validator Node
 I monitor my validator node using [Beaconcha.in by Bitfly](https://beaconcha.in/validator/a2d02549abf18d6a0ca1d30541dc5c12cdf22bdf5d42853eee36421d2ed2d46b2c6b3962d532c47e7eca496d517b7485) and [Etherscan.io Beacon Chain explorer](https://beacon.etherscan.io/validator/0xa2d02549abf18d6a0ca1d30541dc5c12cdf22bdf5d42853eee36421d2ed2d46b2c6b3962d532c47e7eca496d517b7485#deposits). It is also listed on the [Eth2stats.io Topaz Dashboard](https://eth2stats.io/topaz-testnet) as `Hudson's Fun Node`.

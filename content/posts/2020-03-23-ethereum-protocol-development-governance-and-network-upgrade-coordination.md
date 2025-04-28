@@ -12,7 +12,7 @@ This post will discuss how protocol level development decisions are made as well
 
 ### Ethereum Improvement Proposals (EIPs)
 
-![EIPs webpage](https://hudsonjameson.com/img/2020/03/eips_page.png)
+![EIPs webpage](../assets/images/2020/03/eips_page.png)
 
 Martin Becze, an early Ethereum core developer, created the GitHub repository for [Ethereum Improvement Proposals (EIPs)](https://eips.ethereum.org/) on October 2015. The EIP process is based on the [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips) process which is based on the [Python Enhancement Proposals (PEPs)](https://www.python.org/dev/peps/) process. An EIP is a design document providing information to the Ethereum community, or describing a new feature for Ethereum or its processes or environment. The EIP should provide a concise technical specification of the feature and a rationale for the feature. The EIP author is responsible for building consensus within the community and documenting dissenting opinions. 
 
@@ -25,7 +25,7 @@ Starting in January 2020, the EIPIP (EIP Improvement Process) group formed. The 
 
 ## Fellowship of Ethereum Magicians
 
-![Fellowship of Ethereum Magicians Logo](https://hudsonjameson.com/img/2020/03/FEM_logo.png)
+![Fellowship of Ethereum Magicians Logo](../assets/images/2020/03/FEM_logo.png)
 
 The Fellowship of Ethereum Magicians (FEM) was founded in February 2018 by Ethereum Foundation community liaison James Pitts and “Ethereum’s Gandalf” Greg Colvin.
 It’s mission is [“to nurture community consensus on the technical direction and specification of Ethereum”](https://donations.ethereum-magicians.org/). Some people have described FEM as the IEEE of Ethereum, but it has a much more decentralized, community focused bend to it. It’s [online discussion forum](https://ethereum-magicians.org/) serves as the primary place for discussion around EIPs and technical standards in Ethereum. FEM has gatherings at most major Ethereum events where working groups called “rings” are formed. Anyone in the community can create a ring and organize volunteers to solve projects identified by the ring. You can see a list of the rings on the [FEM forum](https://ethereum-magicians.org/).
@@ -33,7 +33,7 @@ It’s mission is [“to nurture community consensus on the technical direction 
 
 ## The “All Core Developers” Calls
 
-![All Core Devs call window](https://hudsonjameson.com/img/2020/03/ACD_meetings.png)
+![All Core Devs call window](../assets/images/2020/03/ACD_meetings.png)
 
 Beginning sometime in late 2015, Ethereum co-founder Gavin Wood created the AllCoreDevs Gitter channel to include Ethereum core developers. At the time there were only a handful of Ethereum core developers across a few clients. Martin Becze [organized the first few core developer meetings](https://gitter.im/ethereum/AllCoreDevs/archives/2015/11/29). George Hallam, the PR/communications lead for the Ethereum Foundation 2015-2016, also helped organize a few. In [October 2016](https://github.com/ethereum/pm#previous-meetings) I took over the task of organizing, moderating, and writing notes for the meetings. In 2019, Lane Rettig (SpaceMesh) joined to assist in facilitating meetings and writing notes. Today others, such as Tim Beiko (Consensys/Pegasys) and James Hancock (Ethereum Foundation), are helping with streaming and moderating meetings. Currently the Ethereum Cat Herders funds the core developer meetings notes.
 
@@ -46,14 +46,14 @@ The All Core Devs meetings are a primary tenet of the governance process of Ethe
 
 ## Ethereum Cat Herders
 
-![Ethereum Cat Herders Logo](https://hudsonjameson.com/img/2020/03/cat_herders_logo.png)
+![Ethereum Cat Herders Logo](../assets/images/2020/03/cat_herders_logo.png)
 
 The Ethereum Cat Herders (ECH) group was founded in January 2019 by myself, Lane Rettig (SpaceMesh), and Afri Schoedon (former Parity) because there was a lack of organization and project management in many aspects of the Ethereum ecosystem. [“Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward”](http://www.ethereumcatherders.com/). In the beginning ECH primarily helped by [funding note taking at All Core Developer meetings](https://github.com/ethereum/pm/tree/master/All%20Core%20Devs%20Meetings) and playing a major role in organizing and fundraising for the [ProgPoW audits](https://medium.com/ethereum-cat-herders/progpow-audit-goals-expectations-75bb902a1f01) requested by the Ethereum core developers. More recently ECH has helped organizations prepare for upcoming network upgrades (hard forks) including Istanbul and Muir Glacier. As the upgrades approached, ECH reached out to exchanges, miners, and infrastructure providers to point them to [blog posts](https://medium.com/ethereum-cat-herders/ethereum-muir-glacier-upgrade-89b8cea5a210) with information and upgrade instructions. ECH releases weekly updates on their [Medium blog](https://medium.com/ethereum-cat-herders) and recently released [a post outlining their accomplishments over the past year](https://medium.com/ethereum-cat-herders/review-2019-the-ethereum-cat-herders-63e4e0315972).
 
 
 ## Network Upgrades
 
-![Muir glacier upgrade image](https://hudsonjameson.com/img/2020/03/network-upgrade.png)
+![Muir glacier upgrade image](../assets/images/2020/03/network-upgrade.png)
 
 ### Determining what goes into a network upgrade
 
@@ -78,7 +78,7 @@ Sometimes an EIP would quickly go from idea to implementation if it was trivial 
 
 In 2019 there was much ideation of process improvements for decision making around network upgrades. We realized that network upgrades would happen very infrequently, deadlines we would make for ourselves would constantly be missed, and we lacked the human resources to handle all of the tasks around planning and executing hard forks. In late 2019 James Hancock was hired to be the hard fork coordinator responsible for helping overhaul the decision making process and make sure we execute on our plans. Iterations of different strategies led to what we are calling the “EIP Centric Model'' of network upgrades. Rather than fumbling around trying to rush EIPs through the process without a set order of operations, EIPs would go through a series of easy to understand steps and network upgrades would be scheduled based on when an EIP is completed. Although this would cause more frequent network upgrades, our processes for communicating with ecosystem players are improving which would help mitigate negative side effects.
 
-![EIP focused network upgrade graphic](https://hudsonjameson.com/img/2020/03/eip_focused_network_upgrades.png)
+![EIP focused network upgrade graphic](../assets/images/2020/03/eip_focused_network_upgrades.png)
 
 The diagram above shows the new way EIPs will be moved through the process and eventually end up on mainnet (image courtesy of James Hancock). We began implementing pieces of this process in late 2019 and plan to continue to improve the process into 2020 as we find out what works and what doesn’t.
 
