@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blockchain on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eth 2.0 Staking and More with Topaz and DAppnode for under $750</title>
+      <link>http://localhost:1313/posts/2020-05-18-eth-2-0-staking-and-more-with-topaz-and-dappnode-for-under-750/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-05-18-eth-2-0-staking-and-more-with-topaz-and-dappnode-for-under-750/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Ethereum 2.0 is the upcoming overhaul to the Ethereum blockchain protocol that will bring with it proof-of-stake (to provide more security) and sharding (to provide more scaling). It is being released in &lt;a href=&#34;https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/&#34;&gt;at least 3 &amp;ldquo;phases&amp;rdquo;, labeled Phase 0 through Phase 2&lt;/a&gt;. It is anticipated that during Q3-Q4 of 2020 it will be launching Phase 0 of the upgrade that will deploy the &amp;ldquo;beacon chain&amp;rdquo;. The beacon chain, among other things, is meant to act as a coordinator between the different actors participating to secure the Eth 2.0 network. I wanted to join an Eth 2.0 Phase 0 testnet to help and get experience running a node. This article is going to detail the hardware and software set-up I went through to become an Eth 2.0 validator on the Topaz testnet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ProgPoW: The Ethereum Community Speaks</title>
+      <link>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</guid>
+      <description>&lt;p&gt;Programmatic Proof-of-Work (ProgPoW) has been a topic of contention in the Ethereum community for a long time. This post explains the history of ProgPoW, the various arguments for and against it, and my personal opinion on the topic. I am speaking on behalf of myself, Hudson Jameson, and not on behalf of the Ethereum Foundation or any other entity.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://eips.ethereum.org/EIPS/eip-1057&#34;&gt;ProgPoW&lt;/a&gt; is &amp;ldquo;a new Proof-of-Work algorithm to replace Ethash that utilizes almost all parts of commodity GPUs&amp;rdquo;. ProgPoW aims to decrease the economic incentive to build an Application-Specific Integrated Circuit (ASIC); a highly specialized device designed for a specific purpose, in this case, mining Ethereum much more efficiently than traditional GPU mining. ProgPoW is not designed to completely prevent a ProgPoW ASIC from being created, but rather make it expensive to build and not worth it to produce. It was submitted as &lt;a href=&#34;https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md#core-eips&#34;&gt;a core EIP&lt;/a&gt; on May 2, 2018, by a semi-anonymous group calling itself &lt;a href=&#34;https://medium.com/@ifdefelse&#34;&gt;IfDefElse&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hudson&#39;s Zcash Developer Fund Proposal Reviews</title>
+      <link>http://localhost:1313/posts/2019-11-15-hudsons-zcash-developer-fund-proposal-review/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019-11-15-hudsons-zcash-developer-fund-proposal-review/</guid>
+      <description>&lt;p&gt;I spent the last two days going over every dev fund proposal and writing my thoughts. I have turned this into a post on the Zcash forums. I&amp;rsquo;m proud to be a part of the Zcash Foundation Advisory Board and I take this decision very seriously. I hope the community comes together on this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.zcashcommunity.com/t/dev-fund-review-of-all-proposals-hudsons-review/35429&#34;&gt;Zcash Forum Post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hudsonjameson/status/1195392941193342976?s=20&#34;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skip to the bottom for my pick&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;My name is Hudson Jameson and I am a cryptocurrency enthusiast who is involved in both the Ethereum and, to a lesser extent, Zcash community. I work for the Ethereum Foundation in a role for devops and community management. I hold a number of roles in the wider Ethereum ecosystem including EIP (Ethereum Improvement Proposal) Editor, Reddit moderator, Ethereum Cat Herders group co-founder, and core developer liaison responsible for organizing the bi-weekly Ethereum core developer calls. I am on the &lt;a href=&#34;https://www.zfnd.org/governance/community-advisory-panel/&#34;&gt;Zcash Community Advisory Panel&lt;/a&gt; that will be &lt;a href=&#34;https://www.zfnd.org/blog/updated-community-sentiment-timeline/&#34;&gt;polled (for sentiment collection) by the Zcash Foundation regarding NU4 proposals (dev fund proposals)&lt;/a&gt;. I care about Zcash and it&amp;rsquo;s community. I consider Ethereum and Zcash besties &amp;lt;3&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gencon, Blockchains, and the One Shot Podcast Network</title>
+      <link>http://localhost:1313/posts/2017-08-21-gencon-blockchains-one-shot-podcast-network/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-08-21-gencon-blockchains-one-shot-podcast-network/</guid>
+      <description>&lt;p&gt;This past weekend I attended my first &lt;a href=&#34;https://en.wikipedia.org/wiki/Gen_Con&#34;&gt;Gencon gaming convention&lt;/a&gt;. It is the largest &lt;a href=&#34;https://en.wikipedia.org/wiki/Tabletop_game&#34;&gt;tabletop-game&lt;/a&gt; convention in North America (70,000+ people). I normally have &lt;a href=&#34;https://coincenter.org/entry/what-is-ethereum&#34;&gt;Ethereum&lt;/a&gt; and &lt;a href=&#34;https://coincenter.org/entry/what-is-blockchain-anyway&#34;&gt;other blockchain related things&lt;/a&gt; consume my life, but a few days a week I meet with friends and play &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_game&#34;&gt;tabletop-RPGs&lt;/a&gt; like Dungeons and Dragons (5e), 7th Sea, Deadlands, and Star Wars: Edge of the Empire. This blog entry primarily describes the things I&amp;rsquo;ve learned from the folks at the One Shot Podcast Network and how I plan to apply that to what I&amp;rsquo;m doing. It also describes a way that blockchain technology can help content creators who utilize traditional crowdfunding platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Am Advising Status and SmartContract.com</title>
+      <link>http://localhost:1313/posts/2017-08-06-advising-status-smartcontract/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-08-06-advising-status-smartcontract/</guid>
+      <description>&lt;p&gt;I was inspired by &lt;a href=&#34;https://twitter.com/zooko/&#34;&gt;Zooko Wilcox&amp;rsquo;s&lt;/a&gt; blog posts that detail why he is advising &lt;a href=&#34;https://medium.com/@zooko/why-im-advising-the-basic-attention-token-bat-team-7ac47d70da02&#34;&gt;Basic Attention Token (BAT)&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@zooko/why-im-advising-tezos-a8e04ec1d0d4&#34;&gt;Tezos&lt;/a&gt; to write a post on my official advising roles in the blockchain community.&lt;/p&gt;
+&lt;p&gt;I have agreed to serve as an advisor to the Status team and SmartContract.com team. This blog post is to explain their projects and state why I’m agreeing to advise them.&lt;/p&gt;
+&lt;h2 id=&#34;statusim&#34;&gt;&lt;a href=&#34;https://status.im/&#34;&gt;Status.im&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;Status is &lt;a href=&#34;https://blog.status.im/introducing-status-ethereum-918b1447274&#34;&gt;a mobile Ethereum OS&lt;/a&gt; that manifest itself as a mobile app for iOS and Android. It is a gateway to access Ethereum Dapps (decentralized applications) on a smartphone, an encrypted message service, and is attempting to build a network of community powered services as part of the &amp;ldquo;Status Network&amp;rdquo;. Status recently held a token distribution for the &amp;ldquo;Status Network Token (SNT)&amp;rdquo;. SNT tokens are used as a utility to power the Status client with services including governance of the Status client, participation in a Fiat-to-crypto ‘Teller Network’, A Decentralized Push Notification Market, and more. &lt;a href=&#34;https://blog.status.im/announcing-the-status-network-c6dd18e770e&#34;&gt;Click here for a blog that explains their vision&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accounts, Transactions, Gas, and Block Gas Limits in Ethereum</title>
+      <link>http://localhost:1313/posts/2017-06-27-accounts-transactions-gas-ethereum/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-27-accounts-transactions-gas-ethereum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://ethfans.org/posts/479&#34;&gt;Chinese translation (中文翻译)&lt;/a&gt; courtesy of &lt;a href=&#34;http://ethfans.org/&#34;&gt;EthFans&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ethereum-france.com/comptes-transactions-gaz-et-limites-de-gaz-par-bloc-sur-ethereum/&#34;&gt;French Translation (traduction française)&lt;/a&gt; courtesy of &lt;a href=&#34;https://www.ethereum-france.com&#34;&gt;Ethereum France&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@yehji205/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EA%B3%84%EC%A0%95-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B0%80%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%B8%94%EB%A1%9D-%EA%B0%80%EC%8A%A4-%ED%95%9C%EB%8F%84-89c5428078e6&#34;&gt;Korean Translation(
+한국어 번역)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@yehji205&#34;&gt;Yeji Park&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@luardi/%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D1%8B-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%B3%D0%B0%D0%B7-%D0%B8-%D0%BB%D0%B8%D0%BC%D0%B8%D1%82-%D0%B3%D0%B0%D0%B7%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-%D1%8D%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC-35454cffa3d0&#34;&gt;Russian Translation (Русский перевод)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@luardi&#34;&gt;Mark Poyda&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@wanraitelli/cuentas-transacciones-gas-y-l%C3%ADmites-de-gas-en-los-bloques-de-ethereum-d2150de36559&#34;&gt;Spanish Translation (Traducción Española)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@wanraitelli&#34;&gt;Wan Raitelli&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://etherkiye.blogspot.com.tr/2017/07/ethereumun-temel-konseptleri-hesap.html&#34;&gt;Turkish Translation (Türkçe çeviri)&lt;/a&gt; courtesy of &lt;a href=&#34;https://etherkiye.blogspot.com.tr/&#34;&gt;Ethereum Turkiye&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This article is meant to help people understand some of the basic mechanics behind accounts, transactions, gas, and the role miners play in setting the block size in Ethereum. Corrections are welcome :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

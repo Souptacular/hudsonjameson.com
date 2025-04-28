@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core-Devs</title>
+      <link>http://localhost:1313/tags/core-devs/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/core-devs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptocurrency</title>
+      <link>http://localhost:1313/tags/cryptocurrency/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum</title>
+      <link>http://localhost:1313/tags/ethereum/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eth2</title>
+      <link>http://localhost:1313/tags/eth2/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/eth2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Staking</title>
+      <link>http://localhost:1313/tags/staking/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/staking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topaz</title>
+      <link>http://localhost:1313/tags/topaz/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/topaz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Progpow</title>
+      <link>http://localhost:1313/tags/progpow/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/progpow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governance</title>
+      <link>http://localhost:1313/tags/governance/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zcash</title>
+      <link>http://localhost:1313/tags/zcash/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zcash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Depression</title>
+      <link>http://localhost:1313/tags/depression/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/depression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ketamine</title>
+      <link>http://localhost:1313/tags/ketamine/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ketamine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gencon</title>
+      <link>http://localhost:1313/tags/gencon/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gencon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chainlink</title>
+      <link>http://localhost:1313/tags/chainlink/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chainlink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accounts</title>
+      <link>http://localhost:1313/tags/accounts/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/accounts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gas</title>
+      <link>http://localhost:1313/tags/gas/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gas/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

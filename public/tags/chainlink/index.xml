@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chainlink on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/chainlink/</link>
+    <description>Recent content in Chainlink on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chainlink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Am Advising Status and SmartContract.com</title>
+      <link>http://localhost:1313/posts/2017-08-06-advising-status-smartcontract/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-08-06-advising-status-smartcontract/</guid>
+      <description>&lt;p&gt;I was inspired by &lt;a href=&#34;https://twitter.com/zooko/&#34;&gt;Zooko Wilcox&amp;rsquo;s&lt;/a&gt; blog posts that detail why he is advising &lt;a href=&#34;https://medium.com/@zooko/why-im-advising-the-basic-attention-token-bat-team-7ac47d70da02&#34;&gt;Basic Attention Token (BAT)&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@zooko/why-im-advising-tezos-a8e04ec1d0d4&#34;&gt;Tezos&lt;/a&gt; to write a post on my official advising roles in the blockchain community.&lt;/p&gt;
+&lt;p&gt;I have agreed to serve as an advisor to the Status team and SmartContract.com team. This blog post is to explain their projects and state why I’m agreeing to advise them.&lt;/p&gt;
+&lt;h2 id=&#34;statusim&#34;&gt;&lt;a href=&#34;https://status.im/&#34;&gt;Status.im&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;Status is &lt;a href=&#34;https://blog.status.im/introducing-status-ethereum-918b1447274&#34;&gt;a mobile Ethereum OS&lt;/a&gt; that manifest itself as a mobile app for iOS and Android. It is a gateway to access Ethereum Dapps (decentralized applications) on a smartphone, an encrypted message service, and is attempting to build a network of community powered services as part of the &amp;ldquo;Status Network&amp;rdquo;. Status recently held a token distribution for the &amp;ldquo;Status Network Token (SNT)&amp;rdquo;. SNT tokens are used as a utility to power the Status client with services including governance of the Status client, participation in a Fiat-to-crypto ‘Teller Network’, A Decentralized Push Notification Market, and more. &lt;a href=&#34;https://blog.status.im/announcing-the-status-network-c6dd18e770e&#34;&gt;Click here for a blog that explains their vision&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

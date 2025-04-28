@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eth2 on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/eth2/</link>
+    <description>Recent content in Eth2 on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eth2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eth 2.0 Staking and More with Topaz and DAppnode for under $750</title>
+      <link>http://localhost:1313/posts/2020-05-18-eth-2-0-staking-and-more-with-topaz-and-dappnode-for-under-750/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-05-18-eth-2-0-staking-and-more-with-topaz-and-dappnode-for-under-750/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Ethereum 2.0 is the upcoming overhaul to the Ethereum blockchain protocol that will bring with it proof-of-stake (to provide more security) and sharding (to provide more scaling). It is being released in &lt;a href=&#34;https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/&#34;&gt;at least 3 &amp;ldquo;phases&amp;rdquo;, labeled Phase 0 through Phase 2&lt;/a&gt;. It is anticipated that during Q3-Q4 of 2020 it will be launching Phase 0 of the upgrade that will deploy the &amp;ldquo;beacon chain&amp;rdquo;. The beacon chain, among other things, is meant to act as a coordinator between the different actors participating to secure the Eth 2.0 network. I wanted to join an Eth 2.0 Phase 0 testnet to help and get experience running a node. This article is going to detail the hardware and software set-up I went through to become an Eth 2.0 validator on the Topaz testnet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Community on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/community/</link>
+    <description>Recent content in Community on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gencon, Blockchains, and the One Shot Podcast Network</title>
+      <link>http://localhost:1313/posts/2017-08-21-gencon-blockchains-one-shot-podcast-network/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-08-21-gencon-blockchains-one-shot-podcast-network/</guid>
+      <description>&lt;p&gt;This past weekend I attended my first &lt;a href=&#34;https://en.wikipedia.org/wiki/Gen_Con&#34;&gt;Gencon gaming convention&lt;/a&gt;. It is the largest &lt;a href=&#34;https://en.wikipedia.org/wiki/Tabletop_game&#34;&gt;tabletop-game&lt;/a&gt; convention in North America (70,000+ people). I normally have &lt;a href=&#34;https://coincenter.org/entry/what-is-ethereum&#34;&gt;Ethereum&lt;/a&gt; and &lt;a href=&#34;https://coincenter.org/entry/what-is-blockchain-anyway&#34;&gt;other blockchain related things&lt;/a&gt; consume my life, but a few days a week I meet with friends and play &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_game&#34;&gt;tabletop-RPGs&lt;/a&gt; like Dungeons and Dragons (5e), 7th Sea, Deadlands, and Star Wars: Edge of the Empire. This blog entry primarily describes the things I&amp;rsquo;ve learned from the folks at the One Shot Podcast Network and how I plan to apply that to what I&amp;rsquo;m doing. It also describes a way that blockchain technology can help content creators who utilize traditional crowdfunding platforms.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

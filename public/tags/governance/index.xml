@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Governance on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/governance/</link>
+    <description>Recent content in Governance on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProgPoW: The Ethereum Community Speaks</title>
+      <link>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</guid>
+      <description>&lt;p&gt;Programmatic Proof-of-Work (ProgPoW) has been a topic of contention in the Ethereum community for a long time. This post explains the history of ProgPoW, the various arguments for and against it, and my personal opinion on the topic. I am speaking on behalf of myself, Hudson Jameson, and not on behalf of the Ethereum Foundation or any other entity.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://eips.ethereum.org/EIPS/eip-1057&#34;&gt;ProgPoW&lt;/a&gt; is &amp;ldquo;a new Proof-of-Work algorithm to replace Ethash that utilizes almost all parts of commodity GPUs&amp;rdquo;. ProgPoW aims to decrease the economic incentive to build an Application-Specific Integrated Circuit (ASIC); a highly specialized device designed for a specific purpose, in this case, mining Ethereum much more efficiently than traditional GPU mining. ProgPoW is not designed to completely prevent a ProgPoW ASIC from being created, but rather make it expensive to build and not worth it to produce. It was submitted as &lt;a href=&#34;https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md#core-eips&#34;&gt;a core EIP&lt;/a&gt; on May 2, 2018, by a semi-anonymous group calling itself &lt;a href=&#34;https://medium.com/@ifdefelse&#34;&gt;IfDefElse&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hudson&#39;s Zcash Developer Fund Proposal Reviews</title>
+      <link>http://localhost:1313/posts/2019-11-15-hudsons-zcash-developer-fund-proposal-review/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019-11-15-hudsons-zcash-developer-fund-proposal-review/</guid>
+      <description>&lt;p&gt;I spent the last two days going over every dev fund proposal and writing my thoughts. I have turned this into a post on the Zcash forums. I&amp;rsquo;m proud to be a part of the Zcash Foundation Advisory Board and I take this decision very seriously. I hope the community comes together on this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.zcashcommunity.com/t/dev-fund-review-of-all-proposals-hudsons-review/35429&#34;&gt;Zcash Forum Post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hudsonjameson/status/1195392941193342976?s=20&#34;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skip to the bottom for my pick&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;My name is Hudson Jameson and I am a cryptocurrency enthusiast who is involved in both the Ethereum and, to a lesser extent, Zcash community. I work for the Ethereum Foundation in a role for devops and community management. I hold a number of roles in the wider Ethereum ecosystem including EIP (Ethereum Improvement Proposal) Editor, Reddit moderator, Ethereum Cat Herders group co-founder, and core developer liaison responsible for organizing the bi-weekly Ethereum core developer calls. I am on the &lt;a href=&#34;https://www.zfnd.org/governance/community-advisory-panel/&#34;&gt;Zcash Community Advisory Panel&lt;/a&gt; that will be &lt;a href=&#34;https://www.zfnd.org/blog/updated-community-sentiment-timeline/&#34;&gt;polled (for sentiment collection) by the Zcash Foundation regarding NU4 proposals (dev fund proposals)&lt;/a&gt;. I care about Zcash and it&amp;rsquo;s community. I consider Ethereum and Zcash besties &amp;lt;3&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

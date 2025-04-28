@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Progpow on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/progpow/</link>
+    <description>Recent content in Progpow on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/progpow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethereum Protocol Development Governance and Network Upgrade Coordination</title>
+      <link>http://localhost:1313/posts/2020-03-23-ethereum-protocol-development-governance-and-network-upgrade-coordination/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-03-23-ethereum-protocol-development-governance-and-network-upgrade-coordination/</guid>
+      <description>&lt;p&gt;This post will discuss how protocol level development decisions are made as well as how Ethereum network upgrades (a.k.a hard forks) are organized. There is a rich history in how Ethereum&amp;rsquo;s decision making processes have developed over time. This article will focus on Eth 1.0 governance and not touch on Ethereum 2.0 governance. This article does not represent the viewpoint of the Ethereum Foundation or any other entity that I am associated with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ProgPoW: The Ethereum Community Speaks</title>
+      <link>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-03-02-progpow-the-ethereum-community-speaks/</guid>
+      <description>&lt;p&gt;Programmatic Proof-of-Work (ProgPoW) has been a topic of contention in the Ethereum community for a long time. This post explains the history of ProgPoW, the various arguments for and against it, and my personal opinion on the topic. I am speaking on behalf of myself, Hudson Jameson, and not on behalf of the Ethereum Foundation or any other entity.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://eips.ethereum.org/EIPS/eip-1057&#34;&gt;ProgPoW&lt;/a&gt; is &amp;ldquo;a new Proof-of-Work algorithm to replace Ethash that utilizes almost all parts of commodity GPUs&amp;rdquo;. ProgPoW aims to decrease the economic incentive to build an Application-Specific Integrated Circuit (ASIC); a highly specialized device designed for a specific purpose, in this case, mining Ethereum much more efficiently than traditional GPU mining. ProgPoW is not designed to completely prevent a ProgPoW ASIC from being created, but rather make it expensive to build and not worth it to produce. It was submitted as &lt;a href=&#34;https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md#core-eips&#34;&gt;a core EIP&lt;/a&gt; on May 2, 2018, by a semi-anonymous group calling itself &lt;a href=&#34;https://medium.com/@ifdefelse&#34;&gt;IfDefElse&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

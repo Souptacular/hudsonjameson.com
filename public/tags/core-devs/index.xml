@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Core-Devs on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/core-devs/</link>
+    <description>Recent content in Core-Devs on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/core-devs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Ethereum core developer?</title>
+      <link>http://localhost:1313/posts/2020-06-22-what-is-an-ethereum-core-developer/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-06-22-what-is-an-ethereum-core-developer/</guid>
+      <description>&lt;p&gt;There has been a lot of debate around what makes someone an Ethereum core developer or what the term even means. I&amp;rsquo;m intimately involved in day-to-day operations involving Ethereum 1.0 protocol development as a developer liaison for the community and have been operating the Ethereum Core Developer call (a.k.a AllCoreDevs call) every other Friday since late 2016. The following is not definitive and only represents my opinion. Nothing in this blog represents the opinion of any of my employers or the Ethereum Foundation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gas on Hudson Jameson’s Website and Blog</title>
+    <link>http://localhost:1313/tags/gas/</link>
+    <description>Recent content in Gas on Hudson Jameson’s Website and Blog</description>
+    <image>
+      <title>Hudson Jameson’s Website and Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>Hudson Jameson</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounts, Transactions, Gas, and Block Gas Limits in Ethereum</title>
+      <link>http://localhost:1313/posts/2017-06-27-accounts-transactions-gas-ethereum/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-27-accounts-transactions-gas-ethereum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://ethfans.org/posts/479&#34;&gt;Chinese translation (中文翻译)&lt;/a&gt; courtesy of &lt;a href=&#34;http://ethfans.org/&#34;&gt;EthFans&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ethereum-france.com/comptes-transactions-gaz-et-limites-de-gaz-par-bloc-sur-ethereum/&#34;&gt;French Translation (traduction française)&lt;/a&gt; courtesy of &lt;a href=&#34;https://www.ethereum-france.com&#34;&gt;Ethereum France&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@yehji205/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EA%B3%84%EC%A0%95-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B0%80%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%B8%94%EB%A1%9D-%EA%B0%80%EC%8A%A4-%ED%95%9C%EB%8F%84-89c5428078e6&#34;&gt;Korean Translation(
+한국어 번역)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@yehji205&#34;&gt;Yeji Park&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@luardi/%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D1%8B-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%B3%D0%B0%D0%B7-%D0%B8-%D0%BB%D0%B8%D0%BC%D0%B8%D1%82-%D0%B3%D0%B0%D0%B7%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-%D1%8D%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC-35454cffa3d0&#34;&gt;Russian Translation (Русский перевод)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@luardi&#34;&gt;Mark Poyda&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/@wanraitelli/cuentas-transacciones-gas-y-l%C3%ADmites-de-gas-en-los-bloques-de-ethereum-d2150de36559&#34;&gt;Spanish Translation (Traducción Española)&lt;/a&gt; courtesy of &lt;a href=&#34;https://medium.com/@wanraitelli&#34;&gt;Wan Raitelli&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://etherkiye.blogspot.com.tr/2017/07/ethereumun-temel-konseptleri-hesap.html&#34;&gt;Turkish Translation (Türkçe çeviri)&lt;/a&gt; courtesy of &lt;a href=&#34;https://etherkiye.blogspot.com.tr/&#34;&gt;Ethereum Turkiye&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This article is meant to help people understand some of the basic mechanics behind accounts, transactions, gas, and the role miners play in setting the block size in Ethereum. Corrections are welcome :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
