@@ -9,7 +9,7 @@ summary: "About Me"
 
 ## Work with Me
 
-I love what I do at Polygon Labs and do not have plans to depart from there. However, I am always interested in hearing about opportunities for consulting, advising, and legal expert witness work that I would be able to do on the side. Please reach out using any of the contact icons above.
+I am currently looking for a full time role. I am always interested in also hearing about opportunities for consulting, advising, and legal expert witness work that I would be able to do on the side. Please reach out using any of the contact icons above.
 
 ### [Click here for my full CV](https://docs.google.com/document/d/18qVi_w283fLG6gPFBs6BBCNACvYsT450oQ_pgLcm4ec/edit?usp=sharing).
 
@@ -21,7 +21,7 @@ I love what I do at Polygon Labs and do not have plans to depart from there. How
 - [Flashbots](https://www.flashbots.net/) - Operations (2021-2022)
 - [EY Blockchain](https://blockchain.ey.com/) - Community Engagement Consultant (2023)
 - [DeFi Education Fund](https://www.defieducationfund.org/)/[Edell Shapiro & Finnan](https://esfip.com/) - [Legal Expert Witness](https://docs.google.com/document/d/18qVi_w283fLG6gPFBs6BBCNACvYsT450oQ_pgLcm4ec/edit?usp=sharing) (2023-2024)
-- [Polygon Labs](https://polygon.technology/) - VP Community (2023-present)
+- [Polygon Labs](https://polygon.technology/) - VP Community & Governance (2023-2025)
 
 
 ## Advising and Consulting Overview
