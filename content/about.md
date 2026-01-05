@@ -54,7 +54,7 @@ I am currently looking for a full time role. I am always interested in also hear
 
 - Co-organized Devcons 2, 3, and 4 (2016-2018)
 
-- 5 blockchain patents ([see my CV](https://docs.google.com/document/d/18qVi_w283fLG6gPFBs6BBCNACvYsT450oQ_pgLcm4ec/edit?usp=sharing))
+- 7 blockchain patents ([see my CV](https://docs.google.com/document/d/18qVi_w283fLG6gPFBs6BBCNACvYsT450oQ_pgLcm4ec/edit?usp=sharing))
 
 ### Speaking Highlights
 **I've spoken at dozens of events around the world on a variety of topics. Visit my "Speaking" page for a full list.**
