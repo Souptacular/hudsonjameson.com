@@ -99,7 +99,7 @@ params:
   socialIcons:
     - name: x
       title: Twitter
-      url: "https://x.com/"
+      url: "https://x.com/hudsonjameson"
     - name: bluesky
       title: Bluesky
       url: "https://bsky.app/profile/hudsonjameson.com"
