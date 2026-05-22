@@ -114,7 +114,7 @@ params:
       url: "https://github.com/Souptacular"
     - name: email
       title: Email
-      url: "mailto:hudson+webinbound@hudsonjameson.com"
+      url: "mailto:hudson@hudsonjameson.com"
     - name: cv
       title: CV
       url: "https://docs.google.com/document/d/18qVi_w283fLG6gPFBs6BBCNACvYsT450oQ_pgLcm4ec/edit?usp=sharing"
